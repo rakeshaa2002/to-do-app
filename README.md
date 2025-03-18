@@ -12,9 +12,8 @@ This is a simple To-Do application that helps users manage their daily tasks eff
 
 ## 🛠️ Technologies Used
 - **Frontend**: HTML, CSS, JavaScript (Tailwind CSS for styling)
-- **Backend**: Django (or Flask) for handling task management
-- **Database**: SQLite/MySQL (if using a backend)
-- **Optional**: LocalStorage (for frontend-only version)
+- **Backend**: Django  for handling task management
+- **Database**: SQLite 
 
 ## 🔧 Installation & Setup
 1. **Clone the Repository**

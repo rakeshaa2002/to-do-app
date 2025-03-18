@@ -40,8 +40,7 @@ This is a simple To-Do application that helps users manage their daily tasks eff
    ```
    Open your browser and go to: `http://127.0.0.1:8000/`
 
-## 📷 Screenshots
-(Add some screenshots of your app here)
+
 
 ## 🤝 Contribution
 Feel free to contribute by forking the repo and submitting a pull request. 
